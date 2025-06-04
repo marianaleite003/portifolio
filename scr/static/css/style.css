@@ -50,7 +50,9 @@ h1, h2, h3 {
 }
 
 footer {
-    position: absolute;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
     background-color: #E5ADA8;
     color: #FFF;
     padding: 1rem;
